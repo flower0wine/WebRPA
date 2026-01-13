@@ -5,10 +5,11 @@
 Web RPA - 网页机器人流程自动化工具
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.18.4-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.19.0-blue.svg" alt="版本">
   <img src="https://img.shields.io/badge/协议-CC%20BY--NC--SA%204.0-green.svg" alt="协议">
   <img src="https://img.shields.io/badge/作者-青云制作__彭明航-orange.svg" alt="作者">
 </p>
+
 
 **一款功能强大的可视化网页自动化工具（支持少量系统桌面自动化），通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。**
 
