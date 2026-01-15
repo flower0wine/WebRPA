@@ -5,10 +5,11 @@
 Web RPA - 网页机器人流程自动化工具
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.19.0-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.19.2-blue.svg" alt="版本">
   <img src="https://img.shields.io/badge/协议-CC%20BY--NC--SA%204.0-green.svg" alt="协议">
   <img src="https://img.shields.io/badge/作者-青云制作__彭明航-orange.svg" alt="作者">
 </p>
+
 
 
 **一款功能强大的可视化网页自动化工具（支持少量系统桌面自动化），通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。**
@@ -214,8 +215,9 @@ WebRPA/
 ├── frameworkHub/           # 工作流市场服务 (Node.js)
 ├── Python313/              # 内置 Python 环境
 ├── nodejs/                 # 内置 Node.js 环境
-├── ffmpeg.exe              # 媒体处理工具
-├── ffprobe.exe             # 媒体信息工具
+├── backend/
+│   ├── ffmpeg.exe          # 媒体处理工具
+│   ├── ffprobe.exe         # 媒体信息工具
 ├── workflows/              # 本地工作流存储
 └── 双击启动WebRPA本地服务.bat
 ```
@@ -291,7 +293,7 @@ WebRPA/
 | 等待控制 | 2 |
 | 鼠标模拟 | 5 |
 | 键盘模拟 | 2 |
-| 图像/文字识别点击 | 4 |
+| 图像/文字识别点击 | 5 |
 | 屏幕操作 | 3 |
 | 宏录制 | 1 |
 | 变量操作 | 5 |
@@ -301,7 +303,7 @@ WebRPA/
 | 数据库 | 7 |
 | 流程控制 | 7 |
 | 文件管理 | 11 |
-| PDF处理 | 17 |
+| PDF处理 | 16 |
 | 视频处理 | 10 |
 | 音频处理 | 3 |
 | 图像处理 | 4 |
@@ -317,7 +319,7 @@ WebRPA/
 | 日志导出 | 1 |
 | 用户交互 | 1 |
 | 画布工具 | 2 |
-| **总计** | **163 个模块** | |
+| **总计** | **163 个模块** |
 
 ---
 
