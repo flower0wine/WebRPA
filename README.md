@@ -5,10 +5,11 @@
 Web RPA - 网页机器人流程自动化工具
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.19.3-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.19.5-blue.svg" alt="版本">
   <img src="https://img.shields.io/badge/协议-CC%20BY--NC--SA%204.0-green.svg" alt="协议">
   <img src="https://img.shields.io/badge/作者-青云制作__彭明航-orange.svg" alt="作者">
 </p>
+
 
 
 
@@ -308,7 +309,7 @@ WebRPA/
 | 音频处理 | 3 |
 | 图像处理 | 4 |
 | 二维码 | 2 |
-| 网络请求 | 6 |
+| 网络请求 | 8 |
 | QQ自动化 | 8 |
 | 微信自动化 | 2 |
 | AI对话 | 2 |
@@ -319,7 +320,7 @@ WebRPA/
 | 日志导出 | 1 |
 | 用户交互 | 1 |
 | 画布工具 | 2 |
-| **总计** | **163 个模块** |
+| **总计** | **165 个模块** | |
 
 ---
 
