@@ -5,10 +5,11 @@
 Web RPA - 网页机器人流程自动化工具
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.19.5-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/版本-1.19.16-blue.svg" alt="版本">
   <img src="https://img.shields.io/badge/协议-CC%20BY--NC--SA%204.0-green.svg" alt="协议">
   <img src="https://img.shields.io/badge/作者-青云制作__彭明航-orange.svg" alt="作者">
 </p>
+
 
 
 
@@ -350,12 +351,53 @@ WebRPA/
 
 **感谢以下开源项目：**
 
-- [Playwright](https://playwright.dev/) - 浏览器自动化
+### 前端框架与工具
+- [React](https://react.dev/) - 前端框架
+- [TypeScript](https://www.typescriptlang.org/) - 类型安全的 JavaScript
+- [Vite](https://vitejs.dev/) - 快速的前端构建工具
 - [React Flow](https://reactflow.dev/) - 流程图编辑器
-- [FastAPI](https://fastapi.tiangolo.com/) - Web 框架
 - [TailwindCSS](https://tailwindcss.com/) - CSS 框架
-- [FFmpeg](https://ffmpeg.org/) - 媒体处理
-- [Socket.IO](https://socket.io/) - 实时通信
+- [Zustand](https://zustand-demo.pmnd.rs/) - 轻量级状态管理
+- [Lucide React](https://lucide.dev/) - 图标库
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/) - 代码编辑器
+- [Radix UI](https://www.radix-ui.com/) - 无样式 UI 组件库
+
+### 后端框架与工具
+- [FastAPI](https://fastapi.tiangolo.com/) - 现代化 Python Web 框架
+- [Uvicorn](https://www.uvicorn.org/) - ASGI 服务器
+- [Pydantic](https://docs.pydantic.dev/) - 数据验证
+- [Socket.IO](https://socket.io/) - 实时双向通信
+
+### 自动化与浏览器
+- [Playwright](https://playwright.dev/) - 浏览器自动化
+- [PyAutoGUI](https://pyautogui.readthedocs.io/) - 键鼠模拟
+- [pynput](https://pynput.readthedocs.io/) - 键鼠监听
+
+### 数据处理
+- [Polars](https://pola.rs/) - 高性能数据处理
+- [openpyxl](https://openpyxl.readthedocs.io/) - Excel 文件处理
+- [PyMySQL](https://pymysql.readthedocs.io/) - MySQL 数据库连接
+- [httpx](https://www.python-httpx.org/) - HTTP 客户端
+
+### 媒体处理
+- [FFmpeg](https://ffmpeg.org/) - 音视频处理
+- [Pillow](https://pillow.readthedocs.io/) - 图像处理
+- [OpenCV](https://opencv.org/) - 计算机视觉
+- [pydub](https://github.com/jiaaro/pydub) - 音频处理
+- [PyMuPDF](https://pymupdf.readthedocs.io/) - PDF 处理
+
+### AI 与识别
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - OCR 文字识别
+- [ddddocr](https://github.com/sml2h3/ddddocr) - 验证码识别
+- [SpeechRecognition](https://github.com/Uberi/speech_recognition) - 语音识别
+- [qrcode](https://github.com/lincolnloop/python-qrcode) - 二维码生成
+- [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar) - 二维码解码
+
+### 其他工具
+- [Express](https://expressjs.com/) - Node.js Web 框架
+- [mitmproxy](https://mitmproxy.org/) - 网络代理抓包
+- [mss](https://python-mss.readthedocs.io/) - 屏幕截图
+- [pywin32](https://github.com/mhammond/pywin32) - Windows API
 
 ---
 
